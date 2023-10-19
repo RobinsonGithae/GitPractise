@@ -1,7 +1,6 @@
 # GitPractise
 A repo for learning git.
-
-** ## Connecting to your GitHub Account with SSH - STEP BY STEP SETUP WITH GIT BASH **
+**## Connecting to your GitHub Account with SSH - STEP BY STEP SETUP WITH GIT BASH**
 Open Git Bash
 
 ## Generating SSH Keys with SSH-KeyGen

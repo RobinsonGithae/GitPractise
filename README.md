@@ -5,7 +5,7 @@ Open Git Bash
 
 ## Generating SSH Keys with SSH-KeyGen
 Generate ssh key pair(One public key i.e id_rsa.pub and the  other private key
-**ssh-keygen -t rsa -b 4096 -C "xyz@abc.com"**
+**ssh-keygen -t rsa -b 4096 -C "xyz@abc.com"** <br>
 -t - key algorithm
 -b - block size
 xyz@abc.com - your email.
